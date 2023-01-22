@@ -10,7 +10,7 @@ Number of 'stars' indicate the business rating given by a customer, ranging from
 - Seaborn
 - WorldCloud
 - ProfileReport
-### NLP Preprocesing:
+### NLP Preproccesing:
 - Natural Language Toolkit (NLTK)
 - Stopwords
 - TfidfVectorizer
